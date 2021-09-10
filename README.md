@@ -1,6 +1,6 @@
 Hello, I'm Rishabh.
 
-I am a AI product manager with a background in business strategy. 
+I am an AI product manager with a background in business strategy. 
 
 My speciality is in building multi-lingual natural language systems, ranging from chatbots to open domain question answering solutions.
 
